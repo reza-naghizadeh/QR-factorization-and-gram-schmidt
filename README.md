@@ -2,7 +2,7 @@
 
 This MATLAB project demonstrates the use of QR factorization to identify linearly dependent columns in a matrix and then applies the Gram-Schmidt process to compute an orthonormal basis for the dependent columns.
 
-This code was developed as part of our Optimization course project at IASBS, in collaboration with my groupmate, Erfan Faridi.
+This code was developed as part of our Optimization course project at IASBS, in collaboration with my groupmate, [Erfan Faridi](https://github.com/erfanfaridii/).
 
 ## Features
 - **QR Factorization**: Decomposes the input matrix to identify linearly dependent columns.
